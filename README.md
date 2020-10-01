@@ -7,6 +7,7 @@ Hacktoberfest is open to everyone in our global community! Four quality pull req
 ## Contributors
 
 - [Virdio Samuel](https://github.com/diosamuel)
+- [Moe Poi ~](https://github.com/moepoi)
 
 ## How to contribute
 - fork this repositories
