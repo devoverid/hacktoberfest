@@ -7,6 +7,7 @@ Hacktoberfest is open to everyone in our global community! Four quality pull req
 ## Contributors
 
 - [Virdio Samuel](https://github.com/diosamuel)
+- [Animesh l](https://github.com/sonichigo)
 - [SYAUQIZAIDAN KHAIRAN KHALAF](https://github.com/syauqi)
 - [Moe Poi ~](https://github.com/moepoi)
 - [Andika Tulus Pangestu](https://github.com/andikatuluspangestu)
