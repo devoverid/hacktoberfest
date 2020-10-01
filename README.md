@@ -8,6 +8,8 @@ Hacktoberfest is open to everyone in our global community! Four quality pull req
 
 - [Virdio Samuel](https://github.com/diosamuel)
 - [SYAUQIZAIDAN KHAIRAN KHALAF](https://github.com/syauqi)
+- [Moe Poi ~](https://github.com/moepoi)
+
 
 ## How to contribute
 - Fork this repository
