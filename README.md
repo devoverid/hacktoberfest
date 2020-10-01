@@ -8,13 +8,15 @@ Hacktoberfest is open to everyone in our global community! Four quality pull req
 
 - [Virdio Samuel](https://github.com/diosamuel)
 - [Animesh l](https://github.com/sonichigo)
+- [SYAUQIZAIDAN KHAIRAN KHALAF](https://github.com/syauqi)
+- [Moe Poi ~](https://github.com/moepoi)
 
 ## How to contribute
-- fork this repositories
-- clone your repo
-- add your name to README.md
-- push
-- pull request
+- Fork this repository
+- Clone your repo
+- Add your name in readme.md
+- Push
+- Pull request
 
 ## Read more at
 [https://www.dataschool.io/how-to-contribute-on-github](https://www.dataschool.io/how-to-contribute-on-github/)
