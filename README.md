@@ -12,6 +12,7 @@ Hacktoberfest is open to everyone in our global community! Four quality pull req
 - [Juwand](https://github.com/andreasjp0)
 - [Moe Poi ~](https://github.com/moepoi)
 - [Andika Tulus Pangestu](https://github.com/andikatuluspangestu)
+- [Francisco Javier Moreno Vázquez](https://github.com/fcomovaz)
 
 ## How to contribute
 - Fork this repository
