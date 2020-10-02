@@ -10,9 +10,12 @@ Hacktoberfest is open to everyone in our global community! Four quality pull req
 - [Animesh l](https://github.com/sonichigo)
 - [SYAUQIZAIDAN KHAIRAN KHALAF](https://github.com/syauqi)
 - [Juwand](https://github.com/andreasjp0)
+- [Afdul Fauzan](https://github.com/afdulfauzan)
 - [Moe Poi ~](https://github.com/moepoi)
 - [Andika Tulus Pangestu](https://github.com/andikatuluspangestu)
 - [Munawir](https://github.com/Munawir712)
+- [Francisco Javier Moreno Vázquez](https://github.com/fcomovaz)
+- [Moch Guntur Pratama @tastedbyheart](https://github.com/gunturpratama)
 
 ## How to contribute
 - Fork this repository
