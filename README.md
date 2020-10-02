@@ -19,6 +19,7 @@ Hacktoberfest is open to everyone in our global community! Four quality pull req
 - [Munawir](https://github.com/Munawir712)
 - [Francisco Javier Moreno Vázquez](https://github.com/fcomovaz)
 - [Moch Guntur Pratama @tastedbyheart](https://github.com/gunturpratama)
+- [Ankit Sharma](https://github.com/Johnwick420)
 
 
 ## How to contribute
