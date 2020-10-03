@@ -30,6 +30,8 @@ Hacktoberfest is open to everyone in our global community! Four quality pull req
 - [Iqbal Rifai](https://github.com/py7hon)
 - [Harry](https://github.com/owl4ce)
 - [Ankit Sharma](https://github.com/Johnwick420)
+- [Ahmad Alfarizki](https://github.com/AhmdFarzki)
+
 
 
 ## How to contribute
