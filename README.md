@@ -38,6 +38,9 @@ Hacktoberfest is open to everyone in our global community! Four quality pull req
 - [Al Fikri](https://github.com/Al-User12)
 - [Miftachul Arzak](https://github.com/miftachularzak)
 - [Muhammad Zulfan Wahyudin](https://github.com/mzulfanw)
+- [Feryxz](https://github.com/feryxz)
+- [Fachry Ansyah](https://github.com/fachryansyah)
+- [Dicka Ismaji](https://github.com/dicka88)
 
 ## How to contribute
 
