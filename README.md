@@ -20,6 +20,7 @@ Hacktoberfest is open to everyone in our global community! Four quality pull req
 - [Francisco Javier Moreno Vázquez](https://github.com/fcomovaz)
 - [Moch Guntur Pratama @tastedbyheart](https://github.com/gunturpratama)
 - [Dhimas Bagus Prayoga](https://github.com/Kry9toN)
+- [Febry Ardiansyah](https://github.com/febryardiansyah)
 - [imasuryasa](https://github.com/masuryasa)
 - [Tiyang Jawi](https://github.com/tiyang-jawi)
 - [Ismail Habibi Herman](https://github.com/ismlhbb)
