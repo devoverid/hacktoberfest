@@ -1,4 +1,4 @@
-# Hacktoberfest! 
+# Hacktoberfest!
 
 Hacktoberfest is open to everyone in our global community! Four quality pull requests must be submitted to public GitHub repositories. You can sign up anytime between October 1 and October 31.
 
@@ -30,6 +30,7 @@ Hacktoberfest is open to everyone in our global community! Four quality pull req
 - [Iqbal Rifai](https://github.com/py7hon)
 - [Harry](https://github.com/owl4ce)
 - [Ankit Sharma](https://github.com/Johnwick420)
+- [Alfian Oktafireza](https://github.com/alfianokt)
 
 
 ## How to contribute
