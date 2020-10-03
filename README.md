@@ -1,4 +1,4 @@
-# Hacktoberfest! 
+# Hacktoberfest!
 
 Hacktoberfest is open to everyone in our global community! Four quality pull requests must be submitted to public GitHub repositories. You can sign up anytime between October 1 and October 31.
 
@@ -15,7 +15,7 @@ Hacktoberfest is open to everyone in our global community! Four quality pull req
 - [Andika Tulus Pangestu](https://github.com/andikatuluspangestu)
 - [Muhammad Hafid Masruri](https://github.com/ackerman17)
 - [Ryns](https://github.com/rynkings)
-- [ii64人 (´･ω･`)](https://github.com/ii64)
+- [ii64 人 (´･ω･`)](https://github.com/ii64)
 - [Munawir](https://github.com/Munawir712)
 - [Francisco Javier Moreno Vázquez](https://github.com/fcomovaz)
 - [Moch Guntur Pratama @tastedbyheart](https://github.com/gunturpratama)
@@ -31,10 +31,16 @@ Hacktoberfest is open to everyone in our global community! Four quality pull req
 - [Harry](https://github.com/owl4ce)
 - [Ankit Sharma](https://github.com/Johnwick420)
 - [Agus Purba](https://github.com/agusydk3)
-
-
+- [Mohammad Zulfahmi](https://github.com/Zzzul)
+- [Ary Arfani](https://github.com/aryarfani)
+- [Ahmad Alfarizki](https://github.com/AhmdFarzki)
+- [Wahyu Amirulloh](https://github.com/wahyuamirulloh)
+- [Alfian Oktafireza](https://github.com/alfianokt)
+- [Al Fikri](https://github.com/Al-User12)
+- [Miftachul Arzak](https://github.com/miftachularzak)
 
 ## How to contribute
+
 - Fork this repository
 - Clone your repo
 - Add your name in readme.md
@@ -42,4 +48,5 @@ Hacktoberfest is open to everyone in our global community! Four quality pull req
 - Pull request
 
 ## Read more at
+
 [https://www.dataschool.io/how-to-contribute-on-github](https://www.dataschool.io/how-to-contribute-on-github/)
