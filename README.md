@@ -31,7 +31,8 @@ Hacktoberfest is open to everyone in our global community! Four quality pull req
 - [Harry](https://github.com/owl4ce)
 - [Ankit Sharma](https://github.com/Johnwick420)
 - [Alfian Oktafireza](https://github.com/alfianokt)
-
+- [Al Fikri](https://github.com/Al-User12)
+- [Miftachul Arzak](https://github.com/miftachularzak)
 
 ## How to contribute
 - Fork this repository
