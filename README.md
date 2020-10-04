@@ -30,6 +30,8 @@ Hacktoberfest is open to everyone in our global community! Four quality pull req
 - [Iqbal Rifai](https://github.com/py7hon)
 - [Harry](https://github.com/owl4ce)
 - [Ankit Sharma](https://github.com/Johnwick420)
+- [Agus Purba](https://github.com/agusydk3)
+- [Zuans](https://github.com/Zuans)
 - [Mohammad Zulfahmi](https://github.com/Zzzul)
 - [Ary Arfani](https://github.com/aryarfani)
 - [Ahmad Alfarizki](https://github.com/AhmdFarzki)
@@ -38,6 +40,17 @@ Hacktoberfest is open to everyone in our global community! Four quality pull req
 - [Al Fikri](https://github.com/Al-User12)
 - [Miftachul Arzak](https://github.com/miftachularzak)
 - [Abdul Malik](https://github.com/abdulmalikk)
+- [Ibnu Syawal](https://github.com/ibnusyawall)
+- [Rigen Maulana](https://github.com/rygenzx)
+- [Muhammad Zulfan Wahyudin](https://github.com/mzulfanw)
+- [Feryxz](https://github.com/feryxz)
+- [Fachry Ansyah](https://github.com/fachryansyah)
+- [Reihen-afk](https://github.com/Reihen-afk)
+- [Ikhbal Dwiyantoro](https://github.com/Inzoid)
+- [Andre Tri Ramadana](http://github.com/andre12001)
+- [Sonal Agrawal](https://github.com/coolsonu39)
+- [Muhammad Arief] (https://github.com/riffshop)
+- [Dicka Ismaji](https://github.com/dicka88)
 
 ## How to contribute
 
