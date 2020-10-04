@@ -83,6 +83,7 @@ Hacktoberfest is open to everyone in our global community! Four quality pull req
 - [Abdullahsams](https://github.com/abdullahsams)
 - [Binsar Dwi Jasuma](http://github.com/binsarjr)
 - [Fatur Rahman](http://github.com/faturkamvret)
+- [Yoni Widhi](https://github.com/NichiNect)
 - [Muhammad Bhaska](http://github.com/mhmdbhsk)
 - [Muhammad Nauval Faiq Khilmi](https://github.com/novalfaiq)
 - [Soumak Majumdar](https://github.com/SoumakMajumdar)
