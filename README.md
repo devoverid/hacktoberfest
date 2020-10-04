@@ -83,6 +83,7 @@ Hacktoberfest is open to everyone in our global community! Four quality pull req
 - [Abdullahsams](https://github.com/abdullahsams)
 - [Binsar Dwi Jasuma](http://github.com/binsarjr)
 - [Fatur Rahman](http://github.com/faturkamvret)
+- [Khai Zulfa](https://github.com/KhaiZulfa18)
 - [Putra AR](https://github.com/N1ght420)
 - [Adi Purnomo](https://github.com/medival)
 - [Ary Setya Pambudi](http://github.com/arysetya)
