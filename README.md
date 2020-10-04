@@ -47,6 +47,7 @@ Hacktoberfest is open to everyone in our global community! Four quality pull req
 - [Rigen Maulana](https://github.com/rygenzx)
 - [Muhammad Zulfan Wahyudin](https://github.com/mzulfanw)
 - [Feryxz](https://github.com/feryxz)
+- [Safitri](https://github.com/safitri02)
 - [Muhammad Rafly Indrawan](https://github.com/fliw)
 - [Risky Muhamad](https://github.com/Riskymuhamad)
 - [Dzaki Muzhaffar](https://github.com/dzakiimuzh)
@@ -58,6 +59,7 @@ Hacktoberfest is open to everyone in our global community! Four quality pull req
 - [Sonal Agrawal](https://github.com/coolsonu39)
 - [Muhammad Arief] (https://github.com/riffshop)
 - [Dicka Ismaji](https://github.com/dicka88)
+
 
 ## How to contribute
 
