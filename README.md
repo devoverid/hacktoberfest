@@ -65,6 +65,7 @@ Hacktoberfest is open to everyone in our global community! Four quality pull req
 - [Sonal Agrawal](https://github.com/coolsonu39)
 - [Muhammad Arief] (https://github.com/riffshop)
 - [Dicka Ismaji](https://github.com/dicka88)
+- [Yoel Gabriel Nainggolan](https://github.com/yoelngl)
 
 
 ## How to contribute
