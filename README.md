@@ -40,6 +40,7 @@ Hacktoberfest is open to everyone in our global community! Four quality pull req
 - [Muhammad Zulfan Wahyudin](https://github.com/mzulfanw)
 - [Feryxz](https://github.com/feryxz)
 - [Fachry Ansyah](https://github.com/fachryansyah)
+- [Sonal Agrawal](https://github.com/coolsonu39)
 - [Muhammad Arief] (https://github.com/riffshop)
 - [Dicka Ismaji](https://github.com/dicka88)
 
