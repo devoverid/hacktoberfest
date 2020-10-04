@@ -55,6 +55,7 @@ Hacktoberfest is open to everyone in our global community! Four quality pull req
 - [Rigen Maulana](https://github.com/rygenzx)
 - [Muhammad Zulfan Wahyudin](https://github.com/mzulfanw)
 - [Feryxz](https://github.com/feryxz)
+- [Maulana](https://github.com/lanacoeg)
 - [WidhiSec](https://github.com/widhisec)
 - [Fachry Ansyah](https://github.com/fachryansyah)
 - [Fakhri Alauddin](https://github.com/Fakhri17)
