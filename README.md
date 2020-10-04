@@ -78,6 +78,20 @@ Hacktoberfest is open to everyone in our global community! Four quality pull req
 - [Yoel Gabriel Nainggolan](https://github.com/yoelngl)
 - [Aan Ahmad](http://github.com/yaelahan)
 - [Syahrul](https://github.com/Syhrularv)
+- [Syamil Abdillah](https://github.com/syamilAbdillah/)
+- [Alvin Maulana](https://github.com/alvinmr)
+- [Ahmad Irsyadul Ibad](https://github.com/irsyadulibad)
+- [Abdullahsams](https://github.com/abdullahsams)
+- [Binsar Dwi Jasuma](http://github.com/binsarjr)
+- [Fatur Rahman](http://github.com/faturkamvret)
+- [Khai Zulfa](https://github.com/KhaiZulfa18)
+- [Putra AR](https://github.com/N1ght420)
+- [Adi Purnomo](https://github.com/medival)
+- [Ary Setya Pambudi](http://github.com/arysetya)
+- [Yoni Widhi](https://github.com/NichiNect)
+- [Muhammad Bhaska](http://github.com/mhmdbhsk)
+- [Muhammad Nauval Faiq Khilmi](https://github.com/novalfaiq)
+- [Soumak Majumdar](https://github.com/SoumakMajumdar)
 
 
 ## How to contribute
