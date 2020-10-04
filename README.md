@@ -40,7 +40,7 @@ Hacktoberfest is open to everyone in our global community! Four quality pull req
 - [Al Fikri](https://github.com/Al-User12)
 - [Miftachul Arzak](https://github.com/miftachularzak)
 - [Nukholis Ramadhan](https://github.com/ramadh-an)
-- [Argadhana Nugrohosiwi] (https://github.com/argadhana)
+- [Argadhana Nugrohosiwi](https://github.com/argadhana)
 - [Wafa Rifqi Anafin](https://github.com/wafarifki)
 - [Muhammad Dayan](https://github.com/mdayann)
 - [Yudistira Arya](https://github.com/lordrukie)
@@ -63,8 +63,9 @@ Hacktoberfest is open to everyone in our global community! Four quality pull req
 - [Ikhbal Dwiyantoro](https://github.com/Inzoid)
 - [Andre Tri Ramadana](http://github.com/andre12001)
 - [Sonal Agrawal](https://github.com/coolsonu39)
-- [Muhammad Arief] (https://github.com/riffshop)
+- [Muhammad Arief](https://github.com/riffshop)
 - [Dicka Ismaji](https://github.com/dicka88)
+- [Firman Fathoni](https://github.com/FirmanFathoni)
 
 
 ## How to contribute
