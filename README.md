@@ -78,6 +78,8 @@ Hacktoberfest is open to everyone in our global community! Four quality pull req
 - [Yoel Gabriel Nainggolan](https://github.com/yoelngl)
 - [Aan Ahmad](http://github.com/yaelahan)
 - [Abdullahsams](https://github.com/abdullahsams)
+- [Binsar Dwi Jasuma](http://github.com/binsarjr)
+- [Fatur Rahman](http://github.com/faturkamvret)
 
 
 ## How to contribute
