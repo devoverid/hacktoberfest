@@ -96,7 +96,7 @@ Hacktoberfest is open to everyone in our global community! Four quality pull req
 - [Muhammad Bhaska](http://github.com/mhmdbhsk)
 - [Muhammad Nauval Faiq Khilmi](https://github.com/novalfaiq)
 - [Soumak Majumdar](https://github.com/SoumakMajumdar)
--
+- [Fadlian Alfansyah](https://github.com/Fadlian17)
 
 ## How to contribute
 
