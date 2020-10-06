@@ -13,6 +13,7 @@ Hacktoberfest is open to everyone in our global community! Four quality pull req
 - [Afdul Fauzan](https://github.com/afdulfauzan)
 - [Moe Poi ~](https://github.com/moepoi)
 - [Andika Tulus Pangestu](https://github.com/andikatuluspangestu)
+- [I Kadek Adi Gunawan](https://github.com/zgunz42)
 - [Muhammad Hafid Masruri](https://github.com/ackerman17)
 - [Ryns](https://github.com/rynkings)
 - [ii64 人 (´･ω･`)](https://github.com/ii64)
@@ -84,6 +85,9 @@ Hacktoberfest is open to everyone in our global community! Four quality pull req
 - [Abdullahsams](https://github.com/abdullahsams)
 - [Binsar Dwi Jasuma](http://github.com/binsarjr)
 - [Fatur Rahman](http://github.com/faturkamvret)
+- [Kidung Fajar Prabowo](https://github.com/kfajarbowo)
+- [Muhammad Alif N](https://github.com/aliffauzi34)
+- [Emmadi Divya Srujana](https://github.com/EmmadiDivyaSrujana)
 - [Ahmad Rizal Khamdani](http://github.com/rizalord)
 - [Ramadhan](https://github.com/ramadhan-xic)
 - [Nizar Izzuddin Yatim Fadlan](https://github.com/nizariyf)
@@ -97,6 +101,8 @@ Hacktoberfest is open to everyone in our global community! Four quality pull req
 - [Muhammad Nauval Faiq Khilmi](https://github.com/novalfaiq)
 - [Soumak Majumdar](https://github.com/SoumakMajumdar)
 - [Hasan Basri](github.com/verluchie)
+- [Abdul Aziz Ahwan](https://github.com/abdulazizahwan)
+- [Oratakashi Nhamako](https://github.com/oratakashi)
 
 
 ## How to contribute
