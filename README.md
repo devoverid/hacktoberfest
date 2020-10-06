@@ -109,6 +109,7 @@ Hacktoberfest is open to everyone in our global community! Four quality pull req
 - [Hasan Basri](github.com/verluchie)
 - [Abdul Aziz Ahwan](https://github.com/abdulazizahwan)
 - [Oratakashi Nhamako](https://github.com/oratakashi)
+- [Danar Putra](https://github.com/danarputra4648)
 
 
 ## How to contribute
