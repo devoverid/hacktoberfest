@@ -110,6 +110,7 @@ Hacktoberfest is open to everyone in our global community! Four quality pull req
 - [Abdul Aziz Ahwan](https://github.com/abdulazizahwan)
 - [Oratakashi Nhamako](https://github.com/oratakashi)
 - [Fitrah Maulana](https://github.com/insomness)
+- [Faisyal Ramadhan](https://github.com/Salisyal)
 - [YashRaj Singh](https://github.com/Yashraj-Singh-2904)
 
 ## How to contribute
