@@ -113,6 +113,7 @@ Hacktoberfest is open to everyone in our global community! Four quality pull req
 - [Fitrah Maulana](https://github.com/insomness)
 - [YashRaj Singh](https://github.com/Yashraj-Singh-2904)
 - [Farhan Syamsuddin](https://github.com/farhansyam)
+- [Kevin Pakpahan](https://github.com/kirchhoff19)
 
 ## How to contribute
 
