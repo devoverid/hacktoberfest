@@ -114,6 +114,7 @@ Hacktoberfest is open to everyone in our global community! Four quality pull req
 - [YashRaj Singh](https://github.com/Yashraj-Singh-2904)
 - [Farhan Syamsuddin](https://github.com/farhansyam)
 - [Ikbal Hanafi](https://github.com/ikbal-hanafi)
+- [Naka Rapstar](https://github.com/Nakasz)
 
 ## How to contribute
 
