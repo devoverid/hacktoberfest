@@ -119,6 +119,7 @@ Hacktoberfest is open to everyone in our global community! Four quality pull req
 - [Ikbal Hanafi](https://github.com/ikbal-hanafi)
 - [Naka Rapstar](https://github.com/Nakasz)
 - [Dhiva Tiradika](https://github.com/dhivatiradika)
+- [Vodivanka Putra](https://github.com/misticjr)
 
 ## How to contribute
 
