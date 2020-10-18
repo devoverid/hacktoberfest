@@ -114,6 +114,11 @@ Hacktoberfest is open to everyone in our global community! Four quality pull req
 - [YashRaj Singh](https://github.com/Yashraj-Singh-2904)
 - [Farhan Syamsuddin](https://github.com/farhansyam)
 - [Andri Yani](https://github.com/driandri)
+- [Steven Lavinske](https://github.com/lavinske)
+- [M Yusril](https://github.com/shansekai)
+- [Ikbal Hanafi](https://github.com/ikbal-hanafi)
+- [Naka Rapstar](https://github.com/Nakasz)
+- [Dhiva Tiradika](https://github.com/dhivatiradika)
 
 ## How to contribute
 
