@@ -6,6 +6,7 @@ Hacktoberfest is open to everyone in our global community! Four quality pull req
 
 ## Contributors
 
+- [Bihan Chakraborty](https://github.com/Bihan001)
 - [Virdio Samuel](https://github.com/diosamuel)
 - [Animesh l](https://github.com/sonichigo)
 - [SYAUQIZAIDAN KHAIRAN KHALAF](https://github.com/syauqi)
@@ -112,9 +113,7 @@ Hacktoberfest is open to everyone in our global community! Four quality pull req
 - [Oratakashi Nhamako](https://github.com/oratakashi)
 - [Fitrah Maulana](https://github.com/insomness)
 - [YashRaj Singh](https://github.com/Yashraj-Singh-2904)
-- [Arungi Cahaya](https://github.com/a7cha)
 - [Laugh Face](https://github.com/laughface809)
-
 
 ## How to contribute
 
