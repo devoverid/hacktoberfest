@@ -122,6 +122,7 @@ Hacktoberfest is open to everyone in our global community! Four quality pull req
 - [Dhiva Tiradika](https://github.com/dhivatiradika)
 - [Tosan Krisna](https://github.com/tosankrisna)
 - [Wisnu Nugroho](https://github.com/WisnuNugoroho33)
+- [Danar Putra](https://github.com/danarputra4648)
 
 ## How to contribute
 
