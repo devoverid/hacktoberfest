@@ -113,6 +113,7 @@ Hacktoberfest is open to everyone in our global community! Four quality pull req
 - [Oratakashi Nhamako](https://github.com/oratakashi)
 - [Fitrah Maulana](https://github.com/insomness)
 - [YashRaj Singh](https://github.com/Yashraj-Singh-2904)
+- [Laugh Face](https://github.com/laughface809)
 - [Farhan Syamsuddin](https://github.com/farhansyam)
 - [Andri Yani](https://github.com/driandri)
 - [Steven Lavinske](https://github.com/lavinske)
@@ -123,6 +124,9 @@ Hacktoberfest is open to everyone in our global community! Four quality pull req
 - [Tosan Krisna](https://github.com/tosankrisna)
 - [Wisnu Nugroho](https://github.com/WisnuNugoroho33)
 - [Gananta Made](https://github.com/gananta65)
+- [Nisha](https://github.com/nishaa73)
+- [Rifai Martin](https://github.com/rifaimartin)
+
 
 ## How to contribute
 
