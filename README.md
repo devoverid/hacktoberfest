@@ -13,6 +13,7 @@ Hacktoberfest is open to everyone in our global community! Four quality pull req
 - [Juwand](https://github.com/andreasjp0)
 - [Afdul Fauzan](https://github.com/afdulfauzan)
 - [Moe Poi ~](https://github.com/moepoi)
+- [Robert Theo](https://github.com/robertheo15)
 - [Andika Tulus Pangestu](https://github.com/andikatuluspangestu)
 - [I Kadek Adi Gunawan](https://github.com/zgunz42)
 - [Muhammad Hafid Masruri](https://github.com/ackerman17)
