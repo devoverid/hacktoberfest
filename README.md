@@ -24,6 +24,7 @@ Hacktoberfest is open to everyone in our global community! Four quality pull req
 - [Nathajana](https://github.com/nat9h)
 - [Antonio Komang Yudistira](https://github.com/komangss)
 - [Hafiz Caniago](https://github.com/hafizcode02)
+- [Irham Muhammad Shidiq](https://github.com/xevorte)
 - [Dhimas Bagus Prayoga](https://github.com/Kry9toN)
 - [Febry Ardiansyah](https://github.com/febryardiansyah)
 - [imasuryasa](https://github.com/masuryasa)
