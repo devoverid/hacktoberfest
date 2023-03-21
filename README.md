@@ -128,6 +128,7 @@ Hacktoberfest is open to everyone in our global community! Four quality pull req
 - [Gananta Made](https://github.com/gananta65)
 - [Nisha](https://github.com/nishaa73)
 - [Rifai Martin](https://github.com/rifaimartin)
+- [Aip](https://github.com/timred01)
 
 
 ## How to contribute
